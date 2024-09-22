@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19cb9174-bc0b-4751-9da0-68b4cd7ce5fe" name="Changes" comment="Initial Commit of Code Challenge 37/Pool Area">
+    <list default="true" id="19cb9174-bc0b-4751-9da0-68b4cd7ce5fe" name="Changes" comment="Initial Commit of Code Challenge 37/Pool Area. Correct Getters.">
+      <change afterPath="$PROJECT_DIR$/src/Cuboid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727011434227</updated>
-      <workItem from="1727011435398" duration="1482000" />
+      <workItem from="1727011435398" duration="3327000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit of Code Challenge 37/Pool Area">
       <option name="closed" value="true" />
@@ -72,7 +74,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727012293996</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial Commit of Code Challenge 37/Pool Area. Correct Getters.">
+      <option name="closed" value="true" />
+      <created>1727014231152</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727014231152</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +101,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit of Code Challenge 37/Pool Area" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit of Code Challenge 37/Pool Area" />
+    <MESSAGE value="Initial Commit of Code Challenge 37/Pool Area. Correct Getters." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit of Code Challenge 37/Pool Area. Correct Getters." />
   </component>
 </project>
